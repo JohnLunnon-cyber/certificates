@@ -7,4 +7,5 @@ Google Cybersecurity Certificate
 
 
 Levelled Careers 
-![Uploading Screen Shot 2025-01-12 at 13.40.46.png…]()
+
+<img width="1189" alt="Screen Shot 2025-01-12 at 13 40 46" src="https://github.com/user-attachments/assets/a0a82e09-a30a-4e5e-bdd4-fec729cfb72c" />
